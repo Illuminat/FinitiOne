@@ -1,11 +1,11 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Illuminat/FinitiOne.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repo
+   cd {directory}
    ```
 3. Install dependencies:
    ```bash
@@ -14,7 +14,7 @@
    _Or use your preferred dependency manager_
 
 ## Usage
-1. Update the `.env` file with appropriate configuration values.
+1. Update the `.env` file with appropriate configuration values. Update redis config
 2. Run the Laravel development server:
    ```bash
    php artisan serve --port={port}
